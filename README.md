@@ -6,7 +6,6 @@ This project is an interactive Power BI dashboard built using a PhonePe transact
 
 The objective of this project is to analyze transaction trends, monitor payment success and failure rates, identify failed payment reasons, and visualize service-wise performance through an intuitive dashboard.
 
----
 
 ## Project Objectives
 
@@ -17,7 +16,6 @@ The objective of this project is to analyze transaction trends, monitor payment 
 * Compare service-wise transaction performance.
 * Build an interactive dashboard for business decision-making.
 
----
 
 ## Tools & Technologies Used
 
@@ -27,7 +25,6 @@ The objective of this project is to analyze transaction trends, monitor payment 
 * Data Visualization
 * Data Cleaning & Transformation
 
----
 
 ## Dataset Information
 
@@ -53,7 +50,6 @@ The dataset contains information related to:
 * Money Transfer
 * Recharge & Bills
 
----
 
 ## Dashboard Pages
 
@@ -96,7 +92,6 @@ The dataset contains information related to:
 * Monthly Recharge Trends
 * Failed Payment Analysis
 
----
 
 ## Key Features
 
@@ -114,7 +109,6 @@ The dataset contains information related to:
 
 ✅ PhonePe-Themed Dashboard Design
 
----
 
 ## Dashboard Screenshots
 
@@ -139,7 +133,7 @@ The dataset contains information related to:
 
 ![Recharge & Bills Dashboard](<img width="1359" height="767" alt="recharge_bills_dashboard" src="https://github.com/user-attachments/assets/00ed909f-e3fc-462f-8ede-bdd960d5844e" />)
 
----
+
 
 ## Repository Structure
 
@@ -163,7 +157,6 @@ PhonePe-PowerBI-Dashboard
 
     └── recharge_bills_dashboard.png
 
----
 
 ## Business Insights
 
@@ -173,7 +166,6 @@ PhonePe-PowerBI-Dashboard
 * Tracked monthly transaction trends and service usage.
 * Visualized key business metrics through interactive dashboards.
 
----
 
 ## Learning Outcomes
 
@@ -186,7 +178,6 @@ Through this project, I gained practical experience in:
 * Business Data Analysis
 * Interactive Report Development
 
----
 
 ## Author
 
