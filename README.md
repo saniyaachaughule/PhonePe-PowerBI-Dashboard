@@ -114,24 +114,24 @@ The dataset contains information related to:
 
 ### Home Dashboard
 
-![Home Dashboard](<img width="1358" height="766" alt="home_dashboard" src="https://github.com/user-attachments/assets/2dfb9427-e541-4991-98a8-aa2579010e2d" />)
+<img width="1358" height="766" alt="home_dashboard" src="https://github.com/user-attachments/assets/1ce83a11-23d3-46bf-a14b-8f30fc542bfd" />
 
 ### Insurance Dashboard
 
-![Insurance Dashboard](<img width="1354" height="763" alt="insurance_dashboard" src="https://github.com/user-attachments/assets/d4137011-87c2-46cc-ad7a-07154bfc6e43" />)
+<img width="1354" height="763" alt="insurance_dashboard" src="https://github.com/user-attachments/assets/d4137011-87c2-46cc-ad7a-07154bfc6e43" />
 
 ### Loans Dashboard
 
-![Loans Dashboard](<img width="1362" height="762" alt="loans_dashboard" src="https://github.com/user-attachments/assets/fc922e2d-775d-437a-a796-e19badc1aa5d" />)
+<img width="1362" height="762" alt="loans_dashboard" src="https://github.com/user-attachments/assets/fc922e2d-775d-437a-a796-e19badc1aa5d" />
 
 
 ### Money Transfer Dashboard
 
-![Money Transfer Dashboard](<img width="1358" height="763" alt="money_transfer_dashboard" src="https://github.com/user-attachments/assets/f515831a-5196-42ef-b937-9819797f5b82" />)
+<img width="1358" height="763" alt="money_transfer_dashboard" src="https://github.com/user-attachments/assets/f515831a-5196-42ef-b937-9819797f5b82" />
 
 ### Recharge & Bills Dashboard
 
-![Recharge & Bills Dashboard](<img width="1359" height="767" alt="recharge_bills_dashboard" src="https://github.com/user-attachments/assets/00ed909f-e3fc-462f-8ede-bdd960d5844e" />)
+<img width="1359" height="767" alt="recharge_bills_dashboard" src="https://github.com/user-attachments/assets/00ed909f-e3fc-462f-8ede-bdd960d5844e" />
 
 
 
